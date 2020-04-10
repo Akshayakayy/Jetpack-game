@@ -1,0 +1,3 @@
+/home/akshaya/Documents/iiith/ogl-master/a1_20171016/CMakeFiles/edit_cache.dir
+/home/akshaya/Documents/iiith/ogl-master/a1_20171016/CMakeFiles/rebuild_cache.dir
+/home/akshaya/Documents/iiith/ogl-master/a1_20171016/CMakeFiles/graphics_asgn1.dir
